@@ -13,4 +13,5 @@ fn main() {
     generics::generics_fn();
     traits::trait_fn();
     lifecycle::life_cycle();
+    coding_exercises::code_test();
 }
